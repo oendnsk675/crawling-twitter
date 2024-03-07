@@ -1,0 +1,278 @@
+2024-02-16 13:29:03 INFO Search tweet: AyoSiapSiapNyoblos
+2024-02-16 13:29:04 INFO Waiting for element with selector: '//div[@aria-label='Timeline: Search timeline']'
+2024-02-16 13:29:08 INFO Retrieved 3 tweet(s).
+2024-02-16 13:29:08 INFO Results tweet: 3
+2024-02-16 13:29:15 INFO Retrieved 16 tweet(s).
+2024-02-16 13:29:15 INFO Results tweet: 19
+2024-02-16 13:29:21 INFO Retrieved 10 tweet(s).
+2024-02-16 13:29:21 INFO Results tweet: 29
+2024-02-16 13:29:26 INFO Retrieved 7 tweet(s).
+2024-02-16 13:29:26 INFO Results tweet: 36
+2024-02-16 13:29:31 INFO Retrieved 7 tweet(s).
+2024-02-16 13:29:31 INFO Results tweet: 43
+2024-02-16 13:29:36 INFO Retrieved 5 tweet(s).
+2024-02-16 13:29:36 INFO Results tweet: 48
+2024-02-16 13:29:41 INFO Retrieved 7 tweet(s).
+2024-02-16 13:29:41 INFO Results tweet: 55
+2024-02-16 13:29:46 INFO Retrieved 7 tweet(s).
+2024-02-16 13:29:46 INFO Results tweet: 62
+2024-02-16 13:29:51 INFO Retrieved 9 tweet(s).
+2024-02-16 13:29:51 INFO Results tweet: 71
+2024-02-16 13:29:57 INFO Retrieved 8 tweet(s).
+2024-02-16 13:29:57 INFO Results tweet: 79
+2024-02-16 13:30:02 INFO Retrieved 6 tweet(s).
+2024-02-16 13:30:02 INFO Results tweet: 85
+2024-02-16 13:30:08 INFO Retrieved 10 tweet(s).
+2024-02-16 13:30:08 INFO Results tweet: 95
+2024-02-16 13:30:14 INFO Retrieved 14 tweet(s).
+2024-02-16 13:30:14 INFO Results tweet: 109
+2024-02-16 13:30:20 INFO Retrieved 15 tweet(s).
+2024-02-16 13:30:20 INFO Results tweet: 124
+2024-02-16 13:30:27 INFO Retrieved 18 tweet(s).
+2024-02-16 13:30:27 INFO Results tweet: 142
+2024-02-16 13:30:34 INFO Retrieved 22 tweet(s).
+2024-02-16 13:30:34 INFO Results tweet: 164
+2024-02-16 13:30:40 INFO Retrieved 9 tweet(s).
+2024-02-16 13:30:40 INFO Results tweet: 173
+2024-02-16 13:30:40 INFO Scroll not affect, still check limit.
+2024-02-16 13:30:40 INFO Try scroll again.
+2024-02-16 13:30:45 INFO Retrieved 9 tweet(s).
+2024-02-16 13:30:45 INFO Results tweet: 182
+2024-02-16 13:30:45 INFO Scroll not affect, still check limit.
+2024-02-16 13:30:45 INFO Save current state: 128
+2024-02-16 13:30:45 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:31:45 INFO Button retry has clicked!
+2024-02-16 13:31:56 INFO Retrieved 19 tweet(s).
+2024-02-16 13:31:56 INFO Results tweet: 201
+2024-02-16 13:32:03 INFO Retrieved 21 tweet(s).
+2024-02-16 13:32:03 INFO Results tweet: 222
+2024-02-16 13:32:09 INFO Retrieved 10 tweet(s).
+2024-02-16 13:32:09 INFO Results tweet: 232
+2024-02-16 13:32:15 INFO Retrieved 7 tweet(s).
+2024-02-16 13:32:15 INFO Results tweet: 239
+2024-02-16 13:32:21 INFO Retrieved 9 tweet(s).
+2024-02-16 13:32:21 INFO Results tweet: 248
+2024-02-16 13:32:27 INFO Retrieved 12 tweet(s).
+2024-02-16 13:32:27 INFO Results tweet: 260
+2024-02-16 13:32:34 INFO Retrieved 12 tweet(s).
+2024-02-16 13:32:34 INFO Results tweet: 272
+2024-02-16 13:32:34 INFO Scroll not affect, still check limit.
+2024-02-16 13:32:34 INFO Save current state: 63
+2024-02-16 13:32:34 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:33:34 INFO Button retry has clicked!
+2024-02-16 13:33:45 INFO Retrieved 9 tweet(s).
+2024-02-16 13:33:45 INFO Results tweet: 281
+2024-02-16 13:33:52 INFO Retrieved 16 tweet(s).
+2024-02-16 13:33:52 INFO Results tweet: 297
+2024-02-16 13:33:58 INFO Retrieved 14 tweet(s).
+2024-02-16 13:33:58 INFO Results tweet: 311
+2024-02-16 13:34:05 INFO Retrieved 17 tweet(s).
+2024-02-16 13:34:05 INFO Results tweet: 328
+2024-02-16 13:34:10 INFO Retrieved 12 tweet(s).
+2024-02-16 13:34:10 INFO Results tweet: 340
+2024-02-16 13:34:17 INFO Retrieved 19 tweet(s).
+2024-02-16 13:34:17 INFO Results tweet: 359
+2024-02-16 13:34:23 INFO Retrieved 12 tweet(s).
+2024-02-16 13:34:23 INFO Results tweet: 371
+2024-02-16 13:34:29 INFO Retrieved 15 tweet(s).
+2024-02-16 13:34:29 INFO Results tweet: 386
+2024-02-16 13:34:36 INFO Retrieved 19 tweet(s).
+2024-02-16 13:34:36 INFO Results tweet: 405
+2024-02-16 13:34:41 INFO Retrieved 11 tweet(s).
+2024-02-16 13:34:41 INFO Results tweet: 416
+2024-02-16 13:34:47 INFO Retrieved 9 tweet(s).
+2024-02-16 13:34:47 INFO Results tweet: 425
+2024-02-16 13:34:52 INFO Retrieved 9 tweet(s).
+2024-02-16 13:34:52 INFO Results tweet: 434
+2024-02-16 13:34:58 INFO Retrieved 9 tweet(s).
+2024-02-16 13:34:58 INFO Results tweet: 443
+2024-02-16 13:35:04 INFO Retrieved 11 tweet(s).
+2024-02-16 13:35:04 INFO Results tweet: 454
+2024-02-16 13:35:10 INFO Retrieved 10 tweet(s).
+2024-02-16 13:35:10 INFO Results tweet: 464
+2024-02-16 13:35:16 INFO Retrieved 17 tweet(s).
+2024-02-16 13:35:16 INFO Results tweet: 481
+2024-02-16 13:35:22 INFO Retrieved 14 tweet(s).
+2024-02-16 13:35:22 INFO Results tweet: 495
+2024-02-16 13:35:28 INFO Retrieved 15 tweet(s).
+2024-02-16 13:35:28 INFO Results tweet: 510
+2024-02-16 13:35:33 INFO Retrieved 11 tweet(s).
+2024-02-16 13:35:33 INFO Results tweet: 521
+2024-02-16 13:35:39 INFO Retrieved 12 tweet(s).
+2024-02-16 13:35:39 INFO Results tweet: 533
+2024-02-16 13:35:45 INFO Retrieved 11 tweet(s).
+2024-02-16 13:35:45 INFO Results tweet: 544
+2024-02-16 13:35:50 INFO Retrieved 5 tweet(s).
+2024-02-16 13:35:50 INFO Results tweet: 549
+2024-02-16 13:35:55 INFO Retrieved 4 tweet(s).
+2024-02-16 13:35:55 INFO Results tweet: 553
+2024-02-16 13:35:55 INFO Scroll not affect, still check limit.
+2024-02-16 13:35:55 INFO Save current state: 230
+2024-02-16 13:35:55 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:36:55 INFO Button retry has clicked!
+2024-02-16 13:36:59 INFO Scroll not affect, still check limit.
+2024-02-16 13:36:59 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:37:59 INFO Button retry has clicked!
+2024-02-16 13:38:03 INFO Scroll not affect, still check limit.
+2024-02-16 13:38:03 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:39:03 INFO Button retry has clicked!
+2024-02-16 13:39:07 INFO Scroll not affect, still check limit.
+2024-02-16 13:39:07 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:40:07 INFO Button retry has clicked!
+2024-02-16 13:40:11 INFO Scroll not affect, still check limit.
+2024-02-16 13:40:11 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:41:11 INFO Button retry has clicked!
+2024-02-16 13:41:16 INFO Scroll not affect, still check limit.
+2024-02-16 13:41:16 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:42:16 INFO Button retry has clicked!
+2024-02-16 13:42:20 INFO Scroll not affect, still check limit.
+2024-02-16 13:42:20 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:43:20 INFO Button retry has clicked!
+2024-02-16 13:43:24 INFO Scroll not affect, still check limit.
+2024-02-16 13:43:24 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:44:24 INFO Button retry has clicked!
+2024-02-16 13:44:34 INFO Retrieved 11 tweet(s).
+2024-02-16 13:44:34 INFO Results tweet: 564
+2024-02-16 13:44:40 INFO Retrieved 8 tweet(s).
+2024-02-16 13:44:40 INFO Results tweet: 572
+2024-02-16 13:44:45 INFO Retrieved 9 tweet(s).
+2024-02-16 13:44:45 INFO Results tweet: 581
+2024-02-16 13:44:53 INFO Retrieved 18 tweet(s).
+2024-02-16 13:44:53 INFO Results tweet: 599
+2024-02-16 13:45:00 INFO Retrieved 18 tweet(s).
+2024-02-16 13:45:00 INFO Results tweet: 617
+2024-02-16 13:45:06 INFO Retrieved 17 tweet(s).
+2024-02-16 13:45:06 INFO Results tweet: 634
+2024-02-16 13:45:13 INFO Retrieved 14 tweet(s).
+2024-02-16 13:45:13 INFO Results tweet: 648
+2024-02-16 13:45:20 INFO Retrieved 19 tweet(s).
+2024-02-16 13:45:20 INFO Results tweet: 667
+2024-02-16 13:45:26 INFO Retrieved 10 tweet(s).
+2024-02-16 13:45:26 INFO Results tweet: 677
+2024-02-16 13:45:32 INFO Retrieved 9 tweet(s).
+2024-02-16 13:45:32 INFO Results tweet: 686
+2024-02-16 13:45:37 INFO Retrieved 9 tweet(s).
+2024-02-16 13:45:37 INFO Results tweet: 695
+2024-02-16 13:45:43 INFO Retrieved 7 tweet(s).
+2024-02-16 13:45:43 INFO Results tweet: 702
+2024-02-16 13:45:52 INFO Retrieved 19 tweet(s).
+2024-02-16 13:45:52 INFO Results tweet: 721
+2024-02-16 13:46:02 INFO Retrieved 23 tweet(s).
+2024-02-16 13:46:02 INFO Results tweet: 744
+2024-02-16 13:46:11 INFO Retrieved 32 tweet(s).
+2024-02-16 13:46:11 INFO Results tweet: 776
+2024-02-16 13:46:22 INFO Retrieved 31 tweet(s).
+2024-02-16 13:46:22 INFO Results tweet: 807
+2024-02-16 13:46:33 INFO Retrieved 33 tweet(s).
+2024-02-16 13:46:33 INFO Results tweet: 840
+2024-02-16 13:46:43 INFO Retrieved 31 tweet(s).
+2024-02-16 13:46:43 INFO Results tweet: 871
+2024-02-16 13:46:52 INFO Retrieved 30 tweet(s).
+2024-02-16 13:46:52 INFO Results tweet: 901
+2024-02-16 13:47:00 INFO Retrieved 31 tweet(s).
+2024-02-16 13:47:00 INFO Results tweet: 932
+2024-02-16 13:47:10 INFO Retrieved 32 tweet(s).
+2024-02-16 13:47:10 INFO Results tweet: 964
+2024-02-16 13:47:18 INFO Retrieved 30 tweet(s).
+2024-02-16 13:47:18 INFO Results tweet: 994
+2024-02-16 13:47:27 INFO Retrieved 29 tweet(s).
+2024-02-16 13:47:27 INFO Results tweet: 1023
+2024-02-16 13:47:34 INFO Retrieved 26 tweet(s).
+2024-02-16 13:47:34 INFO Results tweet: 1049
+2024-02-16 13:47:42 INFO Retrieved 29 tweet(s).
+2024-02-16 13:47:42 INFO Results tweet: 1078
+2024-02-16 13:47:50 INFO Retrieved 26 tweet(s).
+2024-02-16 13:47:50 INFO Results tweet: 1104
+2024-02-16 13:47:58 INFO Retrieved 23 tweet(s).
+2024-02-16 13:47:58 INFO Results tweet: 1127
+2024-02-16 13:48:08 INFO Retrieved 28 tweet(s).
+2024-02-16 13:48:08 INFO Results tweet: 1155
+2024-02-16 13:48:16 INFO Retrieved 24 tweet(s).
+2024-02-16 13:48:16 INFO Results tweet: 1179
+2024-02-16 13:48:23 INFO Retrieved 25 tweet(s).
+2024-02-16 13:48:23 INFO Results tweet: 1204
+2024-02-16 13:48:32 INFO Retrieved 23 tweet(s).
+2024-02-16 13:48:32 INFO Results tweet: 1227
+2024-02-16 13:48:42 INFO Retrieved 29 tweet(s).
+2024-02-16 13:48:42 INFO Results tweet: 1256
+2024-02-16 13:48:52 INFO Retrieved 32 tweet(s).
+2024-02-16 13:48:52 INFO Results tweet: 1288
+2024-02-16 13:49:02 INFO Retrieved 28 tweet(s).
+2024-02-16 13:49:02 INFO Results tweet: 1316
+2024-02-16 13:49:12 INFO Retrieved 30 tweet(s).
+2024-02-16 13:49:12 INFO Results tweet: 1346
+2024-02-16 13:49:21 INFO Retrieved 28 tweet(s).
+2024-02-16 13:49:21 INFO Results tweet: 1374
+2024-02-16 13:49:30 INFO Retrieved 27 tweet(s).
+2024-02-16 13:49:30 INFO Results tweet: 1401
+2024-02-16 13:49:40 INFO Retrieved 31 tweet(s).
+2024-02-16 13:49:40 INFO Results tweet: 1432
+2024-02-16 13:49:50 INFO Retrieved 28 tweet(s).
+2024-02-16 13:49:50 INFO Results tweet: 1460
+2024-02-16 13:49:59 INFO Retrieved 28 tweet(s).
+2024-02-16 13:49:59 INFO Results tweet: 1488
+2024-02-16 13:50:08 INFO Retrieved 30 tweet(s).
+2024-02-16 13:50:08 INFO Results tweet: 1518
+2024-02-16 13:50:17 INFO Retrieved 29 tweet(s).
+2024-02-16 13:50:17 INFO Results tweet: 1547
+2024-02-16 13:50:28 INFO Retrieved 29 tweet(s).
+2024-02-16 13:50:28 INFO Results tweet: 1576
+2024-02-16 13:50:39 INFO Retrieved 32 tweet(s).
+2024-02-16 13:50:39 INFO Results tweet: 1608
+2024-02-16 13:50:46 INFO Retrieved 15 tweet(s).
+2024-02-16 13:50:46 INFO Results tweet: 1623
+2024-02-16 13:50:52 INFO Retrieved 15 tweet(s).
+2024-02-16 13:50:52 INFO Results tweet: 1638
+2024-02-16 13:50:52 INFO Scroll not affect, still check limit.
+2024-02-16 13:50:52 INFO Save current state: 626
+2024-02-16 13:50:52 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:51:52 INFO Button retry has clicked!
+2024-02-16 13:51:56 INFO Scroll not affect, still check limit.
+2024-02-16 13:51:57 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:52:57 INFO Button retry has clicked!
+2024-02-16 13:53:01 INFO Scroll not affect, still check limit.
+2024-02-16 13:53:01 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:54:01 INFO Button retry has clicked!
+2024-02-16 13:54:05 INFO Scroll not affect, still check limit.
+2024-02-16 13:54:05 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:55:05 INFO Button retry has clicked!
+2024-02-16 13:55:09 INFO Scroll not affect, still check limit.
+2024-02-16 13:55:09 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:56:09 INFO Button retry has clicked!
+2024-02-16 13:56:14 INFO Scroll not affect, still check limit.
+2024-02-16 13:56:14 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:57:14 INFO Button retry has clicked!
+2024-02-16 13:57:18 INFO Scroll not affect, still check limit.
+2024-02-16 13:57:18 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:58:18 INFO Button retry has clicked!
+2024-02-16 13:58:22 INFO Scroll not affect, still check limit.
+2024-02-16 13:58:22 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 13:59:22 INFO Button retry has clicked!
+2024-02-16 13:59:27 INFO Scroll not affect, still check limit.
+2024-02-16 13:59:27 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-02-16 14:00:27 INFO Button retry has clicked!
+2024-02-16 14:00:43 INFO Retrieved 27 tweet(s).
+2024-02-16 14:00:43 INFO Results tweet: 1665
+2024-02-16 14:00:52 INFO Retrieved 26 tweet(s).
+2024-02-16 14:00:52 INFO Results tweet: 1691
+2024-02-16 14:00:59 INFO Retrieved 12 tweet(s).
+2024-02-16 14:00:59 INFO Results tweet: 1703
+2024-02-16 14:01:04 INFO Retrieved 7 tweet(s).
+2024-02-16 14:01:04 INFO Results tweet: 1710
+2024-02-16 14:01:10 INFO Retrieved 7 tweet(s).
+2024-02-16 14:01:10 INFO Results tweet: 1717
+2024-02-16 14:01:15 INFO Retrieved 7 tweet(s).
+2024-02-16 14:01:15 INFO Results tweet: 1724
+2024-02-16 14:01:20 INFO Retrieved 7 tweet(s).
+2024-02-16 14:01:20 INFO Results tweet: 1731
+2024-02-16 14:01:26 INFO Retrieved 5 tweet(s).
+2024-02-16 14:01:26 INFO Results tweet: 1736
+2024-02-16 14:01:31 INFO Retrieved 4 tweet(s).
+2024-02-16 14:01:31 INFO Results tweet: 1740
+2024-02-16 14:01:31 INFO Scroll not affect, still check limit.
+2024-02-16 14:01:31 INFO Try scroll again.
+2024-02-16 14:01:35 INFO Retrieved 4 tweet(s).
+2024-02-16 14:01:35 INFO Results tweet: 1744
+2024-02-16 14:01:35 INFO Scroll not affect, still check limit.
+2024-02-16 14:01:35 INFO Search result: 94
+2024-02-16 14:01:35 INFO Tweet has ben saved!

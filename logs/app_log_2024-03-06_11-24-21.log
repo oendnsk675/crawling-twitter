@@ -1,0 +1,136 @@
+2024-03-06 11:24:24 INFO Search tweet: pemilu2024
+2024-03-06 11:24:27 INFO Waiting for element with selector: '//div[@aria-label='Timeline: Search timeline']'
+2024-03-06 11:24:33 INFO Retrieved 8 tweet(s).
+2024-03-06 11:24:33 INFO Results tweet: 8
+2024-03-06 11:24:40 INFO Retrieved 10 tweet(s).
+2024-03-06 11:24:40 INFO Results tweet: 18
+2024-03-06 11:24:45 INFO Retrieved 10 tweet(s).
+2024-03-06 11:24:45 INFO Results tweet: 28
+2024-03-06 11:24:51 INFO Retrieved 11 tweet(s).
+2024-03-06 11:24:51 INFO Results tweet: 39
+2024-03-06 11:24:57 INFO Retrieved 11 tweet(s).
+2024-03-06 11:24:57 INFO Results tweet: 50
+2024-03-06 11:25:02 INFO Retrieved 8 tweet(s).
+2024-03-06 11:25:02 INFO Results tweet: 58
+2024-03-06 11:25:08 INFO Retrieved 9 tweet(s).
+2024-03-06 11:25:08 INFO Results tweet: 67
+2024-03-06 11:25:13 INFO Retrieved 8 tweet(s).
+2024-03-06 11:25:13 INFO Results tweet: 75
+2024-03-06 11:25:18 INFO Retrieved 8 tweet(s).
+2024-03-06 11:25:18 INFO Results tweet: 83
+2024-03-06 11:25:23 INFO Retrieved 6 tweet(s).
+2024-03-06 11:25:23 INFO Results tweet: 89
+2024-03-06 11:25:28 INFO Retrieved 9 tweet(s).
+2024-03-06 11:25:28 INFO Results tweet: 98
+2024-03-06 11:25:34 INFO Retrieved 9 tweet(s).
+2024-03-06 11:25:34 INFO Results tweet: 107
+2024-03-06 11:25:39 INFO Retrieved 7 tweet(s).
+2024-03-06 11:25:39 INFO Results tweet: 114
+2024-03-06 11:25:45 INFO Retrieved 9 tweet(s).
+2024-03-06 11:25:45 INFO Results tweet: 123
+2024-03-06 11:25:50 INFO Retrieved 10 tweet(s).
+2024-03-06 11:25:50 INFO Results tweet: 133
+2024-03-06 11:25:56 INFO Retrieved 8 tweet(s).
+2024-03-06 11:25:56 INFO Results tweet: 141
+2024-03-06 11:26:04 INFO Retrieved 8 tweet(s).
+2024-03-06 11:26:04 INFO Results tweet: 149
+2024-03-06 11:26:10 INFO Retrieved 9 tweet(s).
+2024-03-06 11:26:10 INFO Results tweet: 158
+2024-03-06 11:26:16 INFO Retrieved 10 tweet(s).
+2024-03-06 11:26:16 INFO Results tweet: 168
+2024-03-06 11:26:21 INFO Retrieved 7 tweet(s).
+2024-03-06 11:26:21 INFO Results tweet: 175
+2024-03-06 11:26:26 INFO Retrieved 6 tweet(s).
+2024-03-06 11:26:26 INFO Results tweet: 181
+2024-03-06 11:26:31 INFO Retrieved 5 tweet(s).
+2024-03-06 11:26:31 INFO Results tweet: 186
+2024-03-06 11:26:31 INFO Scroll not affect, still check limit.
+2024-03-06 11:26:31 INFO Save current state: 171
+2024-03-06 11:26:31 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-03-06 11:27:31 INFO Button retry has clicked!
+2024-03-06 11:27:35 INFO Scroll not affect, still check limit.
+2024-03-06 11:27:35 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-03-06 11:28:35 INFO Button retry has clicked!
+2024-03-06 11:28:40 INFO Scroll not affect, still check limit.
+2024-03-06 11:28:40 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-03-06 11:29:40 INFO Button retry has clicked!
+2024-03-06 11:29:44 INFO Scroll not affect, still check limit.
+2024-03-06 11:29:44 INFO Rate limit exceeded, please wait for 10 minutes before retrying.
+2024-03-06 11:30:44 INFO Button retry has clicked!
+2024-03-06 11:30:54 INFO Retrieved 11 tweet(s).
+2024-03-06 11:30:54 INFO Results tweet: 197
+2024-03-06 11:31:00 INFO Retrieved 10 tweet(s).
+2024-03-06 11:31:00 INFO Results tweet: 207
+2024-03-06 11:31:06 INFO Retrieved 11 tweet(s).
+2024-03-06 11:31:06 INFO Results tweet: 218
+2024-03-06 11:31:12 INFO Retrieved 12 tweet(s).
+2024-03-06 11:31:12 INFO Results tweet: 230
+2024-03-06 11:31:17 INFO Retrieved 9 tweet(s).
+2024-03-06 11:31:17 INFO Results tweet: 239
+2024-03-06 11:31:23 INFO Retrieved 10 tweet(s).
+2024-03-06 11:31:23 INFO Results tweet: 249
+2024-03-06 11:31:29 INFO Retrieved 14 tweet(s).
+2024-03-06 11:31:29 INFO Results tweet: 263
+2024-03-06 11:31:35 INFO Retrieved 11 tweet(s).
+2024-03-06 11:31:35 INFO Results tweet: 274
+2024-03-06 11:31:41 INFO Retrieved 13 tweet(s).
+2024-03-06 11:31:41 INFO Results tweet: 287
+2024-03-06 11:31:47 INFO Retrieved 11 tweet(s).
+2024-03-06 11:31:47 INFO Results tweet: 298
+2024-03-06 11:31:52 INFO Retrieved 8 tweet(s).
+2024-03-06 11:31:52 INFO Results tweet: 306
+2024-03-06 11:31:58 INFO Retrieved 13 tweet(s).
+2024-03-06 11:31:58 INFO Results tweet: 319
+2024-03-06 11:32:03 INFO Retrieved 10 tweet(s).
+2024-03-06 11:32:03 INFO Results tweet: 329
+2024-03-06 11:32:09 INFO Retrieved 12 tweet(s).
+2024-03-06 11:32:09 INFO Results tweet: 341
+2024-03-06 11:32:15 INFO Retrieved 10 tweet(s).
+2024-03-06 11:32:15 INFO Results tweet: 351
+2024-03-06 11:32:21 INFO Retrieved 13 tweet(s).
+2024-03-06 11:32:21 INFO Results tweet: 364
+2024-03-06 11:32:27 INFO Retrieved 9 tweet(s).
+2024-03-06 11:32:27 INFO Results tweet: 373
+2024-03-06 11:32:32 INFO Retrieved 10 tweet(s).
+2024-03-06 11:32:32 INFO Results tweet: 383
+2024-03-06 11:32:38 INFO Retrieved 8 tweet(s).
+2024-03-06 11:32:38 INFO Results tweet: 391
+2024-03-06 11:32:43 INFO Retrieved 7 tweet(s).
+2024-03-06 11:32:43 INFO Results tweet: 398
+2024-03-06 11:32:49 INFO Retrieved 12 tweet(s).
+2024-03-06 11:32:49 INFO Results tweet: 410
+2024-03-06 11:32:55 INFO Retrieved 10 tweet(s).
+2024-03-06 11:32:55 INFO Results tweet: 420
+2024-03-06 11:33:00 INFO Retrieved 10 tweet(s).
+2024-03-06 11:33:00 INFO Results tweet: 430
+2024-03-06 11:33:05 INFO Retrieved 8 tweet(s).
+2024-03-06 11:33:05 INFO Results tweet: 438
+2024-03-06 11:33:11 INFO Retrieved 10 tweet(s).
+2024-03-06 11:33:11 INFO Results tweet: 448
+2024-03-06 11:33:17 INFO Retrieved 10 tweet(s).
+2024-03-06 11:33:17 INFO Results tweet: 458
+2024-03-06 11:33:22 INFO Retrieved 10 tweet(s).
+2024-03-06 11:33:22 INFO Results tweet: 468
+2024-03-06 11:33:27 INFO Retrieved 7 tweet(s).
+2024-03-06 11:33:27 INFO Results tweet: 475
+2024-03-06 11:33:33 INFO Retrieved 9 tweet(s).
+2024-03-06 11:33:33 INFO Results tweet: 484
+2024-03-06 11:33:39 INFO Retrieved 11 tweet(s).
+2024-03-06 11:33:39 INFO Results tweet: 495
+2024-03-06 11:33:44 INFO Retrieved 8 tweet(s).
+2024-03-06 11:33:44 INFO Results tweet: 503
+2024-03-06 11:33:49 INFO Retrieved 6 tweet(s).
+2024-03-06 11:33:49 INFO Results tweet: 509
+2024-03-06 11:33:54 INFO Retrieved 5 tweet(s).
+2024-03-06 11:33:54 INFO Results tweet: 514
+2024-03-06 11:33:54 INFO Scroll not affect, still check limit.
+2024-03-06 11:33:54 INFO Try scroll again.
+2024-03-06 11:33:58 INFO Retrieved 5 tweet(s).
+2024-03-06 11:33:58 INFO Results tweet: 519
+2024-03-06 11:33:59 INFO Scroll not affect, still check limit.
+2024-03-06 11:33:59 INFO Try scroll again.
+2024-03-06 11:34:04 INFO Retrieved 5 tweet(s).
+2024-03-06 11:34:04 INFO Results tweet: 524
+2024-03-06 11:34:04 INFO Scroll not affect, still check limit.
+2024-03-06 11:34:04 INFO Search result: 319
+2024-03-06 11:34:04 INFO Tweet has ben saved!

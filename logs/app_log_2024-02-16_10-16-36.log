@@ -1,0 +1,7 @@
+2024-02-16 10:16:38 INFO Search tweet: pemilu2024
+2024-02-16 10:16:40 INFO Waiting for element with selector: '//div[@aria-label='Timeline: Search timeline']'
+2024-02-16 10:17:41 ERROR Timeout: Element with selector '//div[@aria-label='Timeline: Search timeline']' not found
+2024-02-16 10:17:41 INFO Search tweet: AyoSiapSiapNyoblos
+2024-02-16 10:17:42 INFO Waiting for element with selector: '//div[@aria-label='Timeline: Search timeline']'
+2024-02-16 10:17:45 INFO Retrieved 3 tweet(s).
+2024-02-16 10:17:45 INFO Results tweet: 3
